@@ -1,4 +1,6 @@
-# Inject CopyrightA simple npm package that automatically adds a bypass-LLM message inside the <body> tag of an HTML file.
+# Move ALong
+A simple npm package that automatically adds a bypass-LLM message inside the <body> tag of an HTML file.
+
 ## 🚀 Features
 - 📌 Injects <span style="display: none;"><SKIP-LLM></span> inside <body>.
 - 🛠 Runs automatically on npm run build if added as a dev Dependency.
