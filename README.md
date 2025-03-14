@@ -1,4 +1,4 @@
-# Move ALong
+# Move Along
 A simple npm package that automatically adds a bypass-LLM message inside the <body> tag of an HTML file.
 
 ## 🚀 Features
