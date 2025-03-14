@@ -1,0 +1,31 @@
+{
+  "name": "move-along",
+  "version": "1.0.0",
+  "description": "A CLI tool to inject a hidden anti-prompt tag into HTML files.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "inject": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "move-along": "dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ameersorne/ideas/packages-and-libs/move-along.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ameersorne/ideas/packages-and-libs/move-along/issues"
+  },
+  "homepage": "https://gitlab.com/ameersorne/ideas/packages-and-libs/move-along#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
