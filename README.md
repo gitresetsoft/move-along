@@ -1,4 +1,4 @@
-# Move Along
+# Move Along 
 A simple npm package that automatically adds a bypass-LLM message inside the <body> tag of an HTML file.
 
 ## 🚀 Features
@@ -51,3 +51,6 @@ npx move-along index.html
 </body>
 </html>
 ```
+
+NPM:
+https://www.npmjs.com/package/move-along
